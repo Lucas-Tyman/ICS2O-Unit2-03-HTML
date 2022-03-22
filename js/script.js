@@ -12,5 +12,5 @@ function enterClicked() {
 
 // output
   document.getElementById("address").innerHTML =
-    "<p>Your info is: " + streetNumber + " " + sreetName + ".</p>"
+    "<p>Your info is: " + streetNumber + " " + streetName + ".</p>"
 }
